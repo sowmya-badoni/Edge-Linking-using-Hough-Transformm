@@ -1,7 +1,7 @@
 # Exp No 7: Edge-Linking-using-Hough-Transform
 
-### Name: Ashwina K N
-### Register No: 212223230025
+### Name: SOWMYA BADONI
+### Register No: 212223230211
 
 
 ## Aim:
